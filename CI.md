@@ -88,7 +88,10 @@ system packages, Docker, or even run standalone by any machine with a Java
 Runtime Environment (JRE) installed. It can be used with 
 [Github](https://jenkins.io/solutions/github/).
 
-### Open Build Service (OBS)
+### openSUSE Build Service 
+
+openSUSE Build Service uses [Open Build Service (OBS)](http://openbuildservice.org/) 
+with a number of Arm platforms including AArch64 and AArch32.
 
 ### OpenHPC
 
